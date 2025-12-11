@@ -1,0 +1,83 @@
+[2025-12-08 09:20:55] Reached appointment_submit.php
+[2025-12-08 09:20:55] Booking appointment: user_id=7 doctor_id=1 date=2025-12-10 time=12:00
+[2025-12-08 09:20:55] Appointment inserted successfully.
+[2025-12-08 09:20:55] Fetched patient: Ayush subedi | subediayush.193@gmail.com
+[2025-12-08 09:20:55] Fetched doctor: Dr. sia | sia2000@gmail.com
+[2025-12-08 09:20:55] Sending patient email...
+[2025-12-08 09:20:55] sendMail() called — to:subediayush.193@gmail.com subject:✔ Appointment Confirmed — Smart Health
+[2025-12-08 09:20:55] ---- New Email Request ----
+[2025-12-08 09:20:55] To: subediayush.193@gmail.com
+[2025-12-08 09:20:55] Subject: ✔ Appointment Confirmed — Smart Health
+[2025-12-08 09:20:55] SMTP settings applied successfully
+[2025-12-08 09:20:55] Recipient added: subediayush.193@gmail.com
+[2025-12-08 09:20:55] Attempting to send email...
+[2025-12-08 09:20:56] EXCEPTION: SMTP Error: Could not authenticate.
+[2025-12-08 09:20:56] Patient mail status: FAIL
+[2025-12-08 09:20:56] Sending doctor email...
+[2025-12-08 09:20:56] sendMail() called — to:sia2000@gmail.com subject:📅 New Appointment Booked — Smart Health
+[2025-12-08 09:20:56] ---- New Email Request ----
+[2025-12-08 09:20:56] To: sia2000@gmail.com
+[2025-12-08 09:20:56] Subject: 📅 New Appointment Booked — Smart Health
+[2025-12-08 09:20:56] SMTP settings applied successfully
+[2025-12-08 09:20:56] Recipient added: sia2000@gmail.com
+[2025-12-08 09:20:56] Attempting to send email...
+[2025-12-08 09:20:56] EXCEPTION: SMTP Error: Could not authenticate.
+[2025-12-08 09:20:56] Doctor mail status: FAIL
+[2025-12-08 09:22:18] Reached appointment_submit.php
+[2025-12-08 09:22:18] Booking appointment: user_id=7 doctor_id=1 date=2025-12-10 time=15:30
+[2025-12-08 09:22:18] Appointment inserted successfully.
+[2025-12-08 09:22:18] Fetched patient: Ayush subedi | subediayush.193@gmail.com
+[2025-12-08 09:22:18] Fetched doctor: Dr. sia | sia2000@gmail.com
+[2025-12-08 09:22:18] Sending patient email...
+[2025-12-08 09:22:18] sendMail() called — to:subediayush.193@gmail.com subject:✔ Appointment Confirmed — Smart Health
+[2025-12-08 09:22:18] ---- New Email Request ----
+[2025-12-08 09:22:18] To: subediayush.193@gmail.com
+[2025-12-08 09:22:18] Subject: ✔ Appointment Confirmed — Smart Health
+[2025-12-08 09:22:18] SMTP settings applied successfully
+[2025-12-08 09:22:18] Recipient added: subediayush.193@gmail.com
+[2025-12-08 09:22:18] Attempting to send email...
+[2025-12-08 09:22:19] EXCEPTION: SMTP Error: Could not authenticate.
+[2025-12-08 09:22:19] Patient mail status: FAIL
+[2025-12-08 09:22:19] Sending doctor email...
+[2025-12-08 09:22:19] sendMail() called — to:sia2000@gmail.com subject:📅 New Appointment Booked — Smart Health
+[2025-12-08 09:22:19] ---- New Email Request ----
+[2025-12-08 09:22:19] To: sia2000@gmail.com
+[2025-12-08 09:22:19] Subject: 📅 New Appointment Booked — Smart Health
+[2025-12-08 09:22:19] SMTP settings applied successfully
+[2025-12-08 09:22:19] Recipient added: sia2000@gmail.com
+[2025-12-08 09:22:19] Attempting to send email...
+[2025-12-08 09:22:20] EXCEPTION: SMTP Error: Could not authenticate.
+[2025-12-08 09:22:20] Doctor mail status: FAIL
+[2025-12-08 09:32:20] Reached appointment_submit.php
+[2025-12-08 09:32:20] Booking appointment: user_id=7 doctor_id=1 date=2025-12-10 time=15:00
+[2025-12-08 09:32:20] Appointment inserted successfully.
+[2025-12-08 09:32:20] Fetched patient: Ayush subedi | subediayush.193@gmail.com
+[2025-12-08 09:32:20] Fetched doctor: Dr. sia | sia2000@gmail.com
+[2025-12-08 09:32:20] Sending patient email...
+[2025-12-08 09:32:20] sendMail() called — to:subediayush.193@gmail.com subject:✔ Appointment Confirmed — Smart Health
+[2025-12-08 09:32:20] ---- New Email Request ----
+[2025-12-08 09:32:20] SMTP settings applied.
+[2025-12-08 09:32:20] Recipient added: subediayush.193@gmail.com
+[2025-12-08 09:32:20] Attempting to send email...
+[2025-12-08 09:32:22] SUCCESS: Email sent.
+[2025-12-08 09:32:22] Patient mail status: SUCCESS
+[2025-12-08 09:32:22] Sending doctor email...
+[2025-12-08 09:32:22] sendMail() called — to:sia2000@gmail.com subject:📅 New Appointment Booked — Smart Health
+[2025-12-08 09:32:22] ---- New Email Request ----
+[2025-12-08 09:32:22] SMTP settings applied.
+[2025-12-08 09:32:22] Recipient added: sia2000@gmail.com
+[2025-12-08 09:32:22] Attempting to send email...
+[2025-12-08 09:32:23] SUCCESS: Email sent.
+[2025-12-08 09:32:23] Doctor mail status: SUCCESS
+[2025-12-08 09:35:39] Sending mail to: subediayush.193@gmail.com | Subject: ✔ Appointment Confirmed — Smart Health
+[2025-12-08 09:35:41] SUCCESS
+[2025-12-08 09:35:41] Sending mail to: sia2000@gmail.com | Subject: 📅 New Appointment Booked — Smart Health
+[2025-12-08 09:35:42] SUCCESS
+[2025-12-11 05:05:09] Sending mail to: surendrathapa@isu.edu | Subject: ✔ Appointment Confirmed — Smart Health
+[2025-12-11 05:05:11] SUCCESS
+[2025-12-11 05:05:11] Sending mail to: rohanshrestha@isu.edu | Subject: 📅 New Appointment Booked — Smart Health
+[2025-12-11 05:05:12] SUCCESS
+[2025-12-11 05:10:01] Sending mail to: surendrathapa@isu.edu | Subject: ✔ Appointment Confirmed — Smart Health
+[2025-12-11 05:10:02] SUCCESS
+[2025-12-11 05:10:02] Sending mail to: rohanshrestha@isu.edu | Subject: 📅 New Appointment Booked — Smart Health
+[2025-12-11 05:10:04] SUCCESS
